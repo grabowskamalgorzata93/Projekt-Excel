@@ -48,3 +48,5 @@ Zastosowano również interaktywne filtry umożliwiające analizę danych wedłu
 ## Autor
 
 Projekt wykonany jako element portfolio z zakresu analizy danych.
+
+Dane pochodzą ze strony: https://www.kaggle.com/datasets/saidaminsaidaxmadov/chocolate-sales
